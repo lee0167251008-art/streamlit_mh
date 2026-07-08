@@ -246,7 +246,7 @@ if selected_day== '1일차: 7월 6일(월)':
             else:
                 st.info("왼쪽에서 키와 몸무게를 입력하고 'BMI 계산하기' 버튼을 눌러주세요.")
 
-elif selected_day== '1일차: 7월 7일(화)':
+elif selected_day== '2일차: 7월 7일(화)':
     with tab_practice:
         st.header('2일차 실습예제')
         import re
